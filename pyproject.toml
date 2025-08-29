@@ -9,7 +9,7 @@ skip = [
 ]
 
 [project]
-name = "pdf-ocr"
+name = "py-ocr-pdf"
 version = "0.0.1"
 description = "Python package to convert PDF to text using OCR"
 readme = "README.md"

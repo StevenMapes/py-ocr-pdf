@@ -1,13 +1,13 @@
-[![CI Build Status](https://img.shields.io/github/actions/workflow/status/StevenMapes/django-aws-api-gateway-websockets/main.yml?branch=main&style=for-the-badge)](https://github.com/StevenMapes/pdf-ocr/actions)
-[![Coverage](https://img.shields.io/badge/Coverage-96%25-success?style=for-the-badge)](https://github.com/StevenMapes/pdf-ocr/actions?workclow=CI)
-[![PyPi](https://img.shields.io/pypi/v/django-aws-api-gateway-websockets.svg?style=for-the-badge)](https://pypi.org/project/django-aws-api-gateway-websockets/)
+[![CI Build Status](https://img.shields.io/github/actions/workflow/status/StevenMapes/py-ocr-pdf/main.yml?branch=main&style=for-the-badge)](https://github.com/StevenMapes/py-ocr-pdf/actions)
+[![Coverage](https://img.shields.io/badge/Coverage-96%25-success?style=for-the-badge)](https://github.com/StevenMapes/py-ocr-pdf/actions?workclow=CI)
+[![PyPi](https://img.shields.io/pypi/v/py-ocr-pdf.svg?style=for-the-badge)](https://pypi.org/project/py-ocr-pdf/)
 ![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge)
 ![Pre-Commit Enabled](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white&style=for-the-badge)
-[![Read The Docs](https://img.shields.io/readthedocs/django-mysql?style=for-the-badge)](https://django-aws-api-gateway-websockets.readthedocs.io/)
+[![Read The Docs](https://img.shields.io/readthedocs/django-mysql?style=for-the-badge)](https://py-ocr-pdf.readthedocs.io/)
 
-[![PyPi Downloads](https://img.shields.io/pypi/dd/pdf-ocr)](https://pypistats.org/packages/pdf-ocr)
+[![PyPi Downloads](https://img.shields.io/pypi/dd/py-ocr-pdf)](https://pypistats.org/packages/py-ocr-pdf)
 
-# PDF-OCR
+# py-ocr-pdf
 This project has been designed to allow you to OCR PDF files regardless of whether the PDF contains text or images.
 
 # Python Support
@@ -16,7 +16,7 @@ This project only actively supports current Python versions, Python 3.10 to 3.14
 # Installation
 You can install this package from pip using
 ```
-pip install pdf-ocr
+pip install py-ocr-pdf
 ```
 ## OS Dependencies
 - poppler-utils
@@ -41,10 +41,10 @@ On Windows you can install pdftoppm by following the instructions here:
 
 
 # Found a Bug?
-Issues are tracked via GitHub issues at the [project issue page](https://github.com/StevenMapes/pdf-ocr/issues)
+Issues are tracked via GitHub issues at the [project issue page](https://github.com/StevenMapes/py-ocr-pdf/issues)
 
 # Have A Feature Request?
-Feature requests can be raised by creating an issue within the [project issue page](https://github.com/StevenMapes/pdf-ocr/issues), but please create the issue with "Feature Request -" at the start of the issue
+Feature requests can be raised by creating an issue within the [project issue page](https://github.com/StevenMapes/py-ocr-pdf/issues), but please create the issue with "Feature Request -" at the start of the issue
 
 # Testing
 To run the tests use
@@ -67,8 +67,8 @@ This project uses hatchling
 # tox
 
 # Contributing
-- [Check for open issues](https://github.com/StevenMapes/pdf-ocr/issues) at the project issue page or open a new issue to start a discussion about a feature or bug.
-- Fork the [repository on GitHub](https://github.com/StevenMapes/pdf-ocr) to start making changes.
+- [Check for open issues](https://github.com/StevenMapes/py-ocr-pdf/issues) at the project issue page or open a new issue to start a discussion about a feature or bug.
+- Fork the [repository on GitHub](https://github.com/StevenMapes/py-ocr-pdf) to start making changes.
 - Clone the repository
 - Initialise pre-commit by running ```pre-commit install```
 - Install requirements from one of the requirement files
