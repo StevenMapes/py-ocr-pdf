@@ -1,5 +1,5 @@
 [![CI Build Status](https://img.shields.io/github/actions/workflow/status/StevenMapes/py-ocr-pdf/main.yml?branch=main&style=for-the-badge)](https://github.com/StevenMapes/py-ocr-pdf/actions)
-[![Coverage](https://img.shields.io/badge/Coverage-96%25-success?style=for-the-badge)](https://github.com/StevenMapes/py-ocr-pdf/actions?workclow=CI)
+[![Coverage](https://img.shields.io/badge/Coverage-0%25-success?style=for-the-badge)](https://github.com/StevenMapes/py-ocr-pdf/actions?workclow=CI)
 [![PyPi](https://img.shields.io/pypi/v/py-ocr-pdf.svg?style=for-the-badge)](https://pypi.org/project/py-ocr-pdf/)
 ![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge)
 ![Pre-Commit Enabled](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white&style=for-the-badge)
